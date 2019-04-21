@@ -92,6 +92,7 @@ archive-manager.png <- file-roller.png
 archive-manager.png <- p7zip.png
 archive-manager.png <- utilities-file-archiver.png
 archive-manager.png <- xarchiver.png
+archive-manager.png <- org.gnome.ArchiveManager.png
 ardour.png <- ardour2.png
 ardour.png <- ardour5.png
 ardour.png <- ardour_icon_22px.png
@@ -117,6 +118,7 @@ banshee.png <- banshee-1.png
 banshee.png <- media-player-banshee.png
 battlenet.png <- steam_icon_287390.png
 beaver.png <- io.dbeaver.DBeaverCommunity.png
+beaver.png <- dbeaver.png
 bitcoin.png <- bitcoin-qt.png
 blender.png <- Blender.png
 blender.png <- org.blender.Blender.png
@@ -172,6 +174,7 @@ clementine.png <- clementine-playe.png
 clock.png <- alarm-clock.png
 clock.png <- cuckoo.png
 clock.png <- hamster-time-tracker.png
+clock.png <- appointment-soon.png
 colorhug-ccmx.png <- steam_icon_8870.png
 colorhug-flash.png <- steam_icon_209790.png
 comix.png <- mcomix.png
@@ -246,6 +249,7 @@ filezilla.png <- org.filezillaproject.Filezilla.png
 finalterm.png <- final-term.png
 firefox-nightly.png <- firefox-aurora.png
 firefox-nightly.png <- firefox-developer-icon.png
+firefox-nightly.png <- firefox-developer-edition.png
 firefox-nightly.png <- firefox-nightly-icon.png
 firefox.png <- firefox-3.0.png
 firefox.png <- firefox-3.5.png
@@ -312,6 +316,7 @@ gnome-quadrapassel.png <- quadrapassel.png
 gnome-screenshot.png <- applets-screenshooter.png
 gnome-screenshot.png <- ksnapshot.png
 gnome-screenshot.png <- simplescreenrecorder.png
+gnome-screenshot.png <- org.gnome.Screenshot.png
 gnome-software.png <- org.gnome.Software.png
 gnome-sound-recorder.png <- audio-recorder.png
 gnome-sound-recorder.png <- sound-recorder.png
@@ -554,6 +559,7 @@ notes.png <- xfce4-notes-plugin.png
 nvidia-settings.png <- nvidia-current-settings.png
 obconf.png <- obconf-qt.png
 obs-studio.png <- com.obsproject.Studio.png
+obs-studio.png <- obs.png
 octave.png <- octave-icon.png
 octave.png <- octave-logo.png
 octave.png <- org.octave.Octave.png
@@ -569,7 +575,6 @@ panel-applets.png <- dockbarx.png
 panel.png <- cs-panel.png
 panel.png <- gnome-panel.png
 panel.png <- mate-panel.png
-panel.png <- simple-scan.png
 panel.png <- tint2conf.png
 passwords.png <- 1password.png
 passwords.png <- gnome-encfs-manager.png
@@ -578,6 +583,7 @@ passwords.png <- preferences-desktop-user-password.png
 passwords.png <- revelation.png
 passwords.png <- seahorse.png
 passwords.png <- seahorse-preferences.png
+passwords.png <- org.gnome.seahorse.Application.png
 pdfmod.png <- pdfchain.png
 pdfsam.png <- gscan2pdf.png
 pdfsam.png <- pdfshuffler.png
@@ -744,6 +750,8 @@ retroarch.png <- org.libretro.RetroArch.png
 rhythmbox.png <- org.gnome.Rhythmbox3.png
 rygel.png <- steam_icon_570.png
 samba.png <- system-config-samba.png
+scanner.png <- simple-scan.png
+scanner.png <- org.gnome.SimpleScan.png
 screenruler.png <- screenruler-icon.png
 selinux.png <- setroubleshoot_icon.png
 selinux.png <- system-config-selinux.png
@@ -856,6 +864,7 @@ user-info.png <- userinfo.png
 utilities-system-monitor.png <- chrome-ocjnemjmlhjkeilmaidemofakmpclcbi-Default.png
 utilities-system-monitor.png <- gkrellm.png
 utilities-system-monitor.png <- gnome-monitor.png
+utilities-system-monitor.png <- org.gnome.SystemMonitor.png
 utilities-system-monitor.png <- htop.png
 utilities-system-monitor.png <- ksysguard.png
 utilities-system-monitor.png <- preferences-system-performance.png
@@ -865,6 +874,7 @@ utilities-terminal.png <- deepin-terminal.png
 utilities-terminal.png <- Etermutilities-terminal.png
 utilities-terminal.png <- gnome-eterm.png
 utilities-terminal.png <- gnome-terminal.png
+utilities-terminal.png <- org.gnome.Terminal.png
 utilities-terminal.png <- gnome-xterm.png
 utilities-terminal.png <- konsole.png
 utilities-terminal.png <- lxterminal.png
@@ -890,6 +900,7 @@ virtman.png <- virt-manager.png
 virtualbox.png <- VBox.png
 virtualbox.png <- virtualbox-ose.png
 visual-studio-code.png <- com.visualstudio.code.png
+visual-studio-code.png <- code-oss.png
 vlc.png <- org.videolan.VLC.png
 vmplayer.png <- vmware-player.png
 vmware.png <- vmware-workstation.png
@@ -1101,6 +1112,7 @@ web-spotify.png <- spotify.png
 web-telegram.png <- chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default.png
 web-telegram.png <- org.telegram.desktop.png
 web-telegram.png <- unity-webapps-telegram.png
+web-telegram.png <- telegram.png
 web-trello.png <- chrome-oflhioojkbelepjlnafgmgkkjhojphcg-Default.png
 web-trello.png <- trello.png
 web-tumblr.png <- Tumblr-tumblr.com.png
