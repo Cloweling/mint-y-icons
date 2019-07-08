@@ -847,6 +847,7 @@ trophy.png <- supertuxkart_128.png
 trophy.png <- supertuxkart.png
 trophy.png <- supertux.png
 trophy.png <- xmoto.png
+tootle.png <- com.github.bleakgrey.tootle.png
 tweetdeck.png <- chrome-hbdpomandigafcibbmofojjchbcdagbl-Default.png
 tweetdeck.png <- Tweetdeck-tweetdeck.twitter.com.png
 uberwriter.png <- Uberwriter.png
@@ -944,6 +945,7 @@ web-evernote.png <- everpad.png
 web-facebook-messenger.png <- chrome-mdapmeleikeppmfgadilffngabfpibok-Default.png
 web-facebook-messenger.png <- FacebookMessenger-facebook.com.png
 web-facebook-messenger.png <- fbmessenger.png
+web-facebook-messenger.png <- caprine.png
 web-facebook.png <- facebook-facebook.com.png
 web-facebook.png <- facebook.png
 web-facebook.png <- facebookresource.png
@@ -956,7 +958,7 @@ web-feedly.png <- Feedly-feedly.com.png
 web-feedly.png <- feedly.png
 web-flickr.png <- goa-account-flickr.png
 web-foursquare.png <- foursquare.png
-web-foursquare.png <- goa-account-foursquare.png
+web-foursquare.png <- goa-account-foursquare.lspng
 web-gadugadu.png <- im-gadugadu.png
 web-gadugadu.png <- kadu.png
 web-gizmo.png <- im-gizmo.png
