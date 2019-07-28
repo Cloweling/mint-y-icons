@@ -16,7 +16,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="system-log-out.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -31,18 +31,18 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="64.692871"
-     inkscape:cy="82.284205"
-     inkscape:current-layer="layer6"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="442.76131"
+     inkscape:cy="188.31798"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -58,8 +58,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="1"
+       spacingx="1"
        id="grid5883"
        type="xygrid"
        enabled="true"
@@ -70,27 +70,97 @@
        color="#000000"
        opacity="0.1254902"
        empcolor="#203ef3"
-       empopacity="0.36470588" />
+       empopacity="0.36470588"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid11592"
        empspacing="8"
        visible="true"
        enabled="false"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        color="#ff0000"
        opacity="0.1254902"
        empcolor="#ff0000"
        empopacity="0.25098039"
        snapvisiblegridlinesonly="true"
-       dotted="true" />
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs3">
     <linearGradient
+       id="linearGradient935">
+      <stop
+         id="stop931"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop933"
+         offset="1"
+         style="stop-color:#00aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient929">
+      <stop
+         id="stop925"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop927"
+         offset="1"
+         style="stop-color:#00aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient923">
+      <stop
+         id="stop919"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop921"
+         offset="1"
+         style="stop-color:#00aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient917">
+      <stop
+         id="stop913"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop915"
+         offset="1"
+         style="stop-color:#00aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient911">
+      <stop
+         id="stop907"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop909"
+         offset="1"
+         style="stop-color:#00aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient905">
+      <stop
+         id="stop901"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop903"
+         offset="1"
+         style="stop-color:#00aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-0-1"
+       xlink:href="#linearGradient905"
        id="linearGradient4254"
        x1="35"
        y1="156"
@@ -110,7 +180,7 @@
        gradientTransform="matrix(0,-1,1,0,276,572)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-0-1"
+       xlink:href="#linearGradient929"
        id="linearGradient4260"
        x1="418"
        y1="68"
@@ -120,7 +190,7 @@
        gradientTransform="matrix(0,-1,1,0,364,500)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-0-1"
+       xlink:href="#linearGradient923"
        id="linearGradient4262"
        x1="292"
        y1="244"
@@ -130,7 +200,7 @@
        gradientTransform="matrix(0,-1,1,0,68,556)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-0-1"
+       xlink:href="#linearGradient911"
        id="linearGradient4264"
        x1="293"
        y1="76"
@@ -140,7 +210,7 @@
        gradientTransform="matrix(0,-1,1,0,260,412)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-0-1"
+       xlink:href="#linearGradient917"
        id="linearGradient4266"
        x1="291"
        y1="172"
@@ -150,7 +220,7 @@
        gradientTransform="matrix(0,-1,1,0,148,492)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-0-1"
+       xlink:href="#linearGradient935"
        id="linearGradient3870"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,316,540)"
@@ -161,11 +231,11 @@
     <linearGradient
        id="outerBackgroundGradient-0-1">
       <stop
-         style="stop-color:#261e2b;stop-opacity:1;"
+         style="stop-color:#008000;stop-opacity:1"
          offset="0"
          id="stop3864-8-6-6" />
       <stop
-         style="stop-color:#352f39;stop-opacity:1;"
+         style="stop-color:#00aa00;stop-opacity:1"
          offset="1"
          id="stop3866-9-1-0" />
     </linearGradient>
