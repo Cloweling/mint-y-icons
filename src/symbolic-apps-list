@@ -230,6 +230,7 @@ earth.png <- marble.pngap
 earth.png <- web-google-earth.png
 easytag.png <- EasyTAG_icon.png
 ekiga.png <- im-ekiga.png
+electron.png <- electron4.png
 emacs.png <- deepin-emacs.png
 emacs.png <- emacs23.png
 emacs.png <- emacs24.png
@@ -411,6 +412,7 @@ java.png <- oracle-javaws.png
 java.png <- sun-java.png
 java.png <- sun-javaws.png
 java.png <- sun-jcontrol.png
+java.png <- java11-openjdk.png
 jdownloader.png <- jdownloader-beta.png
 jdownloader.png <- org.jdownloader.JDownloader.png
 jetbrains-intellij-idea.png <- com.jetbrains.IntelliJ-IDEA-Community.png
@@ -746,7 +748,9 @@ remote-desktop.png <- krfb.png
 remote-desktop.png <- NoMachine.png
 remote-desktop.png <- preferences-desktop-remote-desktop.png
 remote-desktop.png <- remmina.png
+remote-desktop.png <- org.remmina.Remmina.png
 retroarch.png <- org.libretro.RetroArch.png
+regex.png <- regexxer.png
 rhythmbox.png <- org.gnome.Rhythmbox3.png
 rygel.png <- steam_icon_570.png
 samba.png <- system-config-samba.png
@@ -1184,6 +1188,7 @@ xterm.png <- xterm-color_48x48.png
 xterm.png <- xterm-color.png
 yast.png <- yast2.png
 zoom.png <- Zoom.png
+zoom.png <- us.zoom.Zoom.png
 zsnes.png <- com.snes9x.Snes9x.png
 zsnes.png <- snes9x-gtk.png
 zsnes.png <- snes9x.png
